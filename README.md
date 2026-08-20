@@ -85,9 +85,11 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 
 ## 📈 GitHub Analytics
 
+
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singiten&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singiten&layout=compact&theme=radical&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singiten&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singiten&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
