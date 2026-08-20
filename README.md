@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/readme/hello.gif" width="40px" height="40px" /> Hi, I'm Singiten Beshada
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Creating+Elegant+%26+Scalable+Solutions;Building+Apps+People+Love+to+Use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Creating+Elegant+%26+Scalable+Solutions;Building+Apps+People+Love+to+Use" alt="Typing SVG" />
 </p>
 
 <p align="left"> 
