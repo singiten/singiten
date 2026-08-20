@@ -22,57 +22,78 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 - 📫 How to reach me: **singiten2127@gmail.com**
 - 👨‍💻 All my projects: **[https://singiten.github.io/portifolio/](https://singiten.github.io/portifolio/)**
 
----
 ## 🌟 What I Build
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: flex-start; gap: 28px; overflow-x: auto; padding: 20px 10px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 24px; overflow-x: auto; padding: 20px 10px;">
 
-  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
-    <div style="text-align: center;">
-      <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="56" height="56"/><br />
-      <strong style="font-size: 1.5rem;">🌸 Flora</strong><br />
-      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Social media platform<br />connecting creators &amp; communities</span>
+  <a href="https://github.com/singiten/flora" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
+    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
+         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
+      <div style="text-align: center;">
+        <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.5rem; color: #f0f6fc;">🌸 Flora</strong><br />
+        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Social media platform<br />connecting creators &amp; communities</span>
+      </div>
     </div>
-  </div>
+  </a>
 
-  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
-    <div style="text-align: center;">
-      <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="56" height="56"/><br />
-      <strong style="font-size: 1.5rem;">🛒 U-Shop</strong><br />
-      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Full-featured e-commerce<br />with seamless payment</span>
+  <a href="https://github.com/singiten/ushop" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
+    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
+         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
+      <div style="text-align: center;">
+        <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.5rem; color: #f0f6fc;">🛒 U-Shop</strong><br />
+        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Full-featured e-commerce<br />with seamless payment</span>
+      </div>
     </div>
-  </div>
+  </a>
 
-  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
-    <div style="text-align: center;">
-      <img src="https://img.icons8.com/fluency/64/000000/globe--v1.png" width="56" height="56"/><br />
-      <strong style="font-size: 1.5rem;">🗺️ Tour Guide</strong><br />
-      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Interactive travel platform<br />for adventurers</span>
+  <a href="https://github.com/singiten/kamara-school" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
+    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
+         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
+      <div style="text-align: center;">
+        <img src="https://img.icons8.com/fluency/64/000000/school.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.5rem; color: #f0f6fc;">🏫 Kamara School</strong><br />
+        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Complete educational<br />administration solution</span>
+      </div>
     </div>
-  </div>
+  </a>
 
-  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
-    <div style="text-align: center;">
-      <img src="https://img.icons8.com/fluency/64/000000/school.png" width="56" height="56"/><br />
-      <strong style="font-size: 1.5rem;">🏫 School Management</strong><br />
-      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Complete educational<br />administration solution</span>
+  <a href="https://github.com/singiten/ahadu-jobs" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
+    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
+         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
+      <div style="text-align: center;">
+        <img src="https://img.icons8.com/fluency/64/000000/job.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.5rem; color: #f0f6fc;">💼 Ahadu Jobs</strong><br />
+        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Where job seekers<br />and companies meet</span>
+      </div>
     </div>
-  </div>
+  </a>
+
+  <a href="https://github.com/singiten/bible_quiz" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
+    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
+         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
+      <div style="text-align: center;">
+        <img src="https://img.icons8.com/fluency/64/000000/bible.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.5rem; color: #f0f6fc;">📖 Bible Quiz</strong><br />
+        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Interactive quizzes<br />in Amharic language</span>
+      </div>
+    </div>
+  </a>
 
 </div>
 
 <p align="center" style="color: #8b949e; font-size: 0.85rem; margin-top: 8px;">
-  <i>👆 Hover over a card &nbsp;·&nbsp; 📱 Scroll horizontally on mobile</i>
-</p>
----
+  <i>👆 Hover &amp; click any card to view the repository</i>
+</p>    
+
+
+ 
 
 ## 💻 Tech Arsenal
 
