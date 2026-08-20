@@ -26,30 +26,37 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 
 ## 🌟 What I Build
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/flower.png" width="40" height="40"/><br />
-      <b>🌸 Flora</b><br />
-      <sub>Social media platform connecting creators & communities</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/shopping-cart.png" width="40" height="40"/><br />
-      <b>🛒 U-Shop</b><br />
-      <sub>Full-featured e-commerce with seamless payment</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/globe--v1.png" width="40" height="40"/><br />
-      <b>🗺️ Tour Guide</b><br />
-      <sub>Interactive travel platform for adventurers</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/school.png" width="40" height="40"/><br />
-      <b>🏫 School Management</b><br />
-      <sub>Complete educational administration solution</sub>
-    </td>
-  </tr>
-</table>
+
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
+        <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.6rem;">🌸 Flora</strong><br />
+        <span style="font-size: 1.05rem; color: #8b949e;">Social media platform<br />connecting creators &amp; communities</span>
+      </td>
+      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
+        <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.6rem;">🛒 U-Shop</strong><br />
+        <span style="font-size: 1.05rem; color: #8b949e;">Full-featured e-commerce<br />with seamless payment</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
+        <img src="https://img.icons8.com/fluency/64/000000/globe--v1.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.6rem;">🗺️ Tour Guide</strong><br />
+        <span style="font-size: 1.05rem; color: #8b949e;">Interactive travel platform<br />for adventurers</span>
+      </td>
+      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
+        <img src="https://img.icons8.com/fluency/64/000000/school.png" width="60" height="60"/><br />
+        <strong style="font-size: 1.6rem;">🏫 School Management</strong><br />
+        <span style="font-size: 1.05rem; color: #8b949e;">Complete educational<br />administration solution</span>
+      </td>
+    </tr>
+  </table>
+</p>
+   
 
 ---
 
