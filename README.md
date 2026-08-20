@@ -23,34 +23,31 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 - 👨‍💻 All my projects: **[https://singiten.github.io/portifolio/](https://singiten.github.io/portifolio/)**
 
 ---
-
 ## 🌟 What I Build
 
-
-
 <p align="center">
-  <table>
+  <table style="border-collapse: separate; border-spacing: 24px 24px; border: none;">
     <tr>
-      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
-        <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.6rem;">🌸 Flora</strong><br />
+      <td align="center" style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 260px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="64" height="64"/><br />
+        <strong style="font-size: 1.7rem;">🌸 Flora</strong><br />
         <span style="font-size: 1.05rem; color: #8b949e;">Social media platform<br />connecting creators &amp; communities</span>
       </td>
-      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
-        <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.6rem;">🛒 U-Shop</strong><br />
+      <td align="center" style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 260px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="64" height="64"/><br />
+        <strong style="font-size: 1.7rem;">🛒 U-Shop</strong><br />
         <span style="font-size: 1.05rem; color: #8b949e;">Full-featured e-commerce<br />with seamless payment</span>
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
-        <img src="https://img.icons8.com/fluency/64/000000/globe--v1.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.6rem;">🗺️ Tour Guide</strong><br />
+      <td align="center" style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 260px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.icons8.com/fluency/64/000000/globe--v1.png" width="64" height="64"/><br />
+        <strong style="font-size: 1.7rem;">🗺️ Tour Guide</strong><br />
         <span style="font-size: 1.05rem; color: #8b949e;">Interactive travel platform<br />for adventurers</span>
       </td>
-      <td align="center" style="padding: 28px 24px; background: #161b22; border-radius: 18px; border: 1px solid #30363d; min-width: 240px;">
-        <img src="https://img.icons8.com/fluency/64/000000/school.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.6rem;">🏫 School Management</strong><br />
+      <td align="center" style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 260px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.icons8.com/fluency/64/000000/school.png" width="64" height="64"/><br />
+        <strong style="font-size: 1.7rem;">🏫 School Management</strong><br />
         <span style="font-size: 1.05rem; color: #8b949e;">Complete educational<br />administration solution</span>
       </td>
     </tr>
@@ -84,8 +81,6 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
