@@ -24,74 +24,38 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 
 ## 🌟 What I Build
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 24px; overflow-x: auto; padding: 20px 10px;">
-
-  <a href="https://github.com/singiten/flora" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
-    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
-         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
-      <div style="text-align: center;">
-        <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.5rem; color: #f0f6fc;">🌸 Flora</strong><br />
-        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Social media platform<br />connecting creators &amp; communities</span>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/singiten/ushop" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
-    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
-         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
-      <div style="text-align: center;">
-        <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.5rem; color: #f0f6fc;">🛒 U-Shop</strong><br />
-        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Full-featured e-commerce<br />with seamless payment</span>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/singiten/kamara-school" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
-    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
-         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
-      <div style="text-align: center;">
-        <img src="https://img.icons8.com/fluency/64/000000/school.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.5rem; color: #f0f6fc;">🏫 Kamara School</strong><br />
-        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Complete educational<br />administration solution</span>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/singiten/ahadu-jobs" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
-    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
-         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
-      <div style="text-align: center;">
-        <img src="https://img.icons8.com/fluency/64/000000/job.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.5rem; color: #f0f6fc;">💼 Ahadu Jobs</strong><br />
-        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Where job seekers<br />and companies meet</span>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/singiten/bible_quiz" target="_blank" style="text-decoration: none; min-width: 190px; max-width: 220px; flex: 1 1 0;">
-    <div style="padding: 30px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); cursor: pointer; height: 100%;"
-         onmouseover="this.style.transform='translateY(-12px) scale(1.02)'; this.style.borderColor='#58a6ff'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.borderColor='#30363d'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';">
-      <div style="text-align: center;">
-        <img src="https://img.icons8.com/fluency/64/000000/bible.png" width="60" height="60"/><br />
-        <strong style="font-size: 1.5rem; color: #f0f6fc;">📖 Bible Quiz</strong><br />
-        <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Interactive quizzes<br />in Amharic language</span>
-      </div>
-    </div>
-  </a>
-
-</div>
-
-<p align="center" style="color: #8b949e; font-size: 0.85rem; margin-top: 8px;">
-  <i>👆 Hover &amp; click any card to view the repository</i>
-</p>    
-
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 20px; background: #161b22; border-radius: 16px; border: 1px solid #30363d; min-width: 180px;">
+      <a href="https://github.com/singiten/flora" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="56" height="56"/><br />
+        <strong style="font-size: 1.3rem;">🌸 Flora</strong><br />
+        <span style="font-size: 0.9rem; color: #8b949e;">Social media platform<br />connecting creators &amp; communities</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px; background: #161b22; border-radius: 16px; border: 1px solid #30363d; min-width: 180px;">
+      <a href="https://github.com/singiten/ushop" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="56" height="56"/><br />
+        <strong style="font-size: 1.3rem;">🛒 U-Shop</strong><br />
+        <span style="font-size: 0.9rem; color: #8b949e;">Full-featured e-commerce<br />with seamless payment</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px; background: #161b22; border-radius: 16px; border: 1px solid #30363d; min-width: 180px;">
+      <a href="https://github.com/singiten/kamara-school" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/64/000000/school.png" width="56" height="56"/><br />
+        <strong style="font-size: 1.3rem;">🏫 Kamara School</strong><br />
+        <span style="font-size: 0.9rem; color: #8b949e;">Complete educational<br />administration solution</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px; background: #161b22; border-radius: 16px; border: 1px solid #30363d; min-width: 180px;">
+      <a href="https://github.com/singiten/ahadu-jobs" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/64/000000/job.png" width="56" height="56"/><br />
+        <strong style="font-size: 1.3rem;">💼 Ahadu Jobs</strong><br />
+        <span style="font-size: 0.9rem; color: #8b949e;">Where job seekers<br />and companies meet</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
  
 
