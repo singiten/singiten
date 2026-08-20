@@ -25,46 +25,44 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 ---
 ## 🌟 What I Build
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px 60px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px 70px; margin: 30px 0;">
 
-  <div style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 240px; max-width: 280px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 1 1 200px;">
-    <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="64" height="64"/><br />
-    <strong style="font-size: 1.7rem;">🌸 Flora</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e;">Social media platform<br />connecting creators &amp; communities</span>
+  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/72/000000/flower.png" width="72" height="72"/><br />
+    <strong style="font-size: 1.8rem;">🌸 Flora</strong><br />
+    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Social media platform<br />connecting creators &amp; communities</span>
   </div>
 
-  <div style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 240px; max-width: 280px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 1 1 200px;">
-    <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="64" height="64"/><br />
-    <strong style="font-size: 1.7rem;">🛒 U-Shop</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e;">Full-featured e-commerce<br />with seamless payment</span>
+  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/72/000000/shopping-cart.png" width="72" height="72"/><br />
+    <strong style="font-size: 1.8rem;">🛒 U-Shop</strong><br />
+    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Full-featured e-commerce<br />with seamless payment</span>
   </div>
 
-  <div style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 240px; max-width: 280px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 1 1 200px;">
-    <img src="https://img.icons8.com/fluency/64/000000/globe--v1.png" width="64" height="64"/><br />
-    <strong style="font-size: 1.7rem;">🗺️ Tour Guide</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e;">Interactive travel platform<br />for adventurers</span>
+  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/72/000000/globe--v1.png" width="72" height="72"/><br />
+    <strong style="font-size: 1.8rem;">🗺️ Tour Guide</strong><br />
+    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Interactive travel platform<br />for adventurers</span>
   </div>
 
-  <div style="padding: 32px 28px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; min-width: 240px; max-width: 280px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 1 1 200px;">
-    <img src="https://img.icons8.com/fluency/64/000000/school.png" width="64" height="64"/><br />
-    <strong style="font-size: 1.7rem;">🏫 School Management</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e;">Complete educational<br />administration solution</span>
+  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/72/000000/school.png" width="72" height="72"/><br />
+    <strong style="font-size: 1.8rem;">🏫 School Management</strong><br />
+    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Complete educational<br />administration solution</span>
   </div>
 
 </div>
-   
 
 ---
 
 ## 💻 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,graphql,typescript,javascript,docker,aws,git,postman,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,graphql,typescript,javascript,docker,git,postman,figma&perline=8&size=32" />
 </p>
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
