@@ -1,4 +1,31 @@
-# <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/readme/hello.gif" width="40px" height="40px" /> Hi, I'm Singiten Beshada
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/singiten" width="150" height="150" style="border-radius: 50%;" alt="Singiten Beshada" />
+</p>
+
+<h1 align="center">Singiten Beshada</h1>
+<h3 align="center">MERN Stack Developer | Building Scalable Solutions</h3>
+
+<p align="center">
+  <a href="https://github.com/singiten">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/singiten-beshada">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:singiten2127@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://singiten.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singiten&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/singiten?label=Followers&style=social" alt="Followers" />
+</p>
+
+<hr />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Creating+Elegant+%26+Scalable+Solutions;Building+Apps+People+Love+to+Use" alt="Typing SVG" />
