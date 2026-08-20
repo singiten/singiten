@@ -1,33 +1,4 @@
-<div align="center">
-  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 40px 20px; border-radius: 20px; border: 3px solid #FFD700; box-shadow: 0 0 40px rgba(255, 215, 0, 0.2);">
-    <h1 style="color: #FFD700; font-size: 3.5rem; margin: 0;">⭐ Singiten Beshada</h1>
-    <h3 style="color: #F0E68C; font-size: 1.5rem; margin: 10px 0;">🚀 MERN Stack Developer | AI Enthusiast</h3>
-    <p style="color: #DAA520; font-size: 1.1rem;">
-      <b>🌱 Learning:</b> GraphQL, CI/CD &nbsp;·&nbsp; 
-      <b>💡 Open:</b> Freelance &amp; Collaboration
-    </p>
-    <p>
-      <a href="https://github.com/singiten">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="https://www.linkedin.com/in/singiten-beshada">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:singiten2127@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      <a href="https://singiten.github.io/portifolio/">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-      </a>
-    </p>
-    <p style="color: #B8860B; font-size: 0.9rem;">
-      <img src="https://komarev.com/ghpvc/?username=singiten&label=Profile%20Views&color=gold&style=flat" alt="singiten" />
-      <img src="https://img.shields.io/github/followers/singiten?label=Followers&style=social" alt="followers" />
-    </p>
-  </div>
-</div>
-
-<hr />
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/readme/hello.gif" width="40px" height="40px" /> Hi, I'm Singiten Beshada
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Creating+Elegant+%26+Scalable+Solutions;Building+Apps+People+Love+to+Use" alt="Typing SVG" />
