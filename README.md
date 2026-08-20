@@ -11,18 +11,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **MERN Stack Developer** who transforms complex challenges into elegant, scalable solutions. With a keen eye for detail and a love for clean code, I create applications that make a real impact.
 
-- 🔭 I'm currently working on **a MERN Stack project | Creating elegant, scalable solutions**
-- 🌱 I'm currently learning **GraphQL, CI/CD, and System Design**
-- 👯 I'm looking to collaborate on **open source real-world applicable projects**
-- 💬 Ask me about **MongoDB, React, Node.js, Express**
-- 📫 How to reach me: **singiten2127@gmail.com**
-- 👨‍💻 All my projects: **[https://singiten.github.io/portifolio/](https://singiten.github.io/portifolio/)**
+-  I'm currently working on **a MERN Stack project | Creating elegant, scalable solutions**
+-  I'm currently learning **GraphQL, CI/CD, and System Design**
+-  I'm looking to collaborate on **open source real-world applicable projects**
+-  Ask me about **MongoDB, React, Node.js, Express**
+-  How to reach me: **singiten2127@gmail.com**
+-  All my projects: **[https://singiten.github.io/portifolio/](https://singiten.github.io/portifolio/)**
 
-## 🌟 What I Build
+##  What I Build
 
 <table align="center">
   <tr>
@@ -111,11 +111,11 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 
 ## 📚 Currently Leveling Up
 
-- 🏗️ **Microservices Architecture & Design Patterns**
-- 🐳 **Docker & Container Orchestration**
-- ☁️ **Cloud Computing (AWS, Azure)**
-- 📐 **System Design & Scalability**
-- 🔄 **CI/CD Pipelines**
+-  **Microservices Architecture & Design Patterns**
+-  **Docker & Container Orchestration**
+-  **Cloud Computing (AWS, Azure)**
+-  **System Design & Scalability**
+-  **CI/CD Pipelines**
 
 ---
 
