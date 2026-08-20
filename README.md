@@ -25,34 +25,53 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 ---
 ## 🌟 What I Build
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px 70px; margin: 30px 0;">
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: flex-start; gap: 28px; overflow-x: auto; padding: 20px 10px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
 
-  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
-    <img src="https://img.icons8.com/fluency/72/000000/flower.png" width="72" height="72"/><br />
-    <strong style="font-size: 1.8rem;">🌸 Flora</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Social media platform<br />connecting creators &amp; communities</span>
+  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/fluency/64/000000/flower.png" width="56" height="56"/><br />
+      <strong style="font-size: 1.5rem;">🌸 Flora</strong><br />
+      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Social media platform<br />connecting creators &amp; communities</span>
+    </div>
   </div>
 
-  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
-    <img src="https://img.icons8.com/fluency/72/000000/shopping-cart.png" width="72" height="72"/><br />
-    <strong style="font-size: 1.8rem;">🛒 U-Shop</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Full-featured e-commerce<br />with seamless payment</span>
+  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/fluency/64/000000/shopping-cart.png" width="56" height="56"/><br />
+      <strong style="font-size: 1.5rem;">🛒 U-Shop</strong><br />
+      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Full-featured e-commerce<br />with seamless payment</span>
+    </div>
   </div>
 
-  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
-    <img src="https://img.icons8.com/fluency/72/000000/globe--v1.png" width="72" height="72"/><br />
-    <strong style="font-size: 1.8rem;">🗺️ Tour Guide</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Interactive travel platform<br />for adventurers</span>
+  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/fluency/64/000000/globe--v1.png" width="56" height="56"/><br />
+      <strong style="font-size: 1.5rem;">🗺️ Tour Guide</strong><br />
+      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Interactive travel platform<br />for adventurers</span>
+    </div>
   </div>
 
-  <div style="padding: 36px 30px; background: #161b22; border-radius: 24px; border: 2px solid #30363d; min-width: 220px; max-width: 260px; box-shadow: 0 12px 24px rgba(0,0,0,0.4); flex: 1 1 180px; transition: transform 0.3s;">
-    <img src="https://img.icons8.com/fluency/72/000000/school.png" width="72" height="72"/><br />
-    <strong style="font-size: 1.8rem;">🏫 School Management</strong><br />
-    <span style="font-size: 1.05rem; color: #8b949e; line-height: 1.5;">Complete educational<br />administration solution</span>
+  <div style="min-width: 200px; max-width: 220px; padding: 32px 20px; background: #161b22; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3); flex: 0 0 auto; scroll-snap-align: start; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: default;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)'; this.style.borderColor='#58a6ff';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'; this.style.borderColor='#30363d';">
+    <div style="text-align: center;">
+      <img src="https://img.icons8.com/fluency/64/000000/school.png" width="56" height="56"/><br />
+      <strong style="font-size: 1.5rem;">🏫 School Management</strong><br />
+      <span style="font-size: 0.95rem; color: #8b949e; line-height: 1.4;">Complete educational<br />administration solution</span>
+    </div>
   </div>
 
 </div>
 
+<p align="center" style="color: #8b949e; font-size: 0.85rem; margin-top: 8px;">
+  <i>👆 Hover over a card &nbsp;·&nbsp; 📱 Scroll horizontally on mobile</i>
+</p>
 ---
 
 ## 💻 Tech Arsenal
