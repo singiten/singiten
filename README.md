@@ -20,7 +20,7 @@ I'm a passionate **MERN Stack Developer** who transforms complex challenges into
 -  I'm looking to collaborate on **open source real-world applicable projects**
 -  Ask me about **MongoDB, React, Node.js, Express**
 -  How to reach me: **singiten2127@gmail.com**
--  All my projects: **[https://singiten.vercel.app//](https://singiten.vercel.app/)**
+-  All my projects: **[https://singiten.vercel.app/](https://singiten.vercel.app)**
 
 ##  What I Build
 
